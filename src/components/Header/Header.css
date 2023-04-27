@@ -16,3 +16,7 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.user-login{
+    color: #FFFFFF;
+    padding-left: 10px;
+}
